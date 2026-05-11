@@ -45,13 +45,13 @@
 ###
 
 <div align="left">
-  <a href="ayezairfan31@gmail.com" target="_blank">
+  <a href="mailto:ayezairfan31@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://github.com/Ayeza-Irfan" target="_blank">
+  <a href="https://linkedin.com/Ayeza-irfan" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="22-se-5@students.uettaxila.edu.pk" target="_blank">
+  <a href="mailto:22-se-5@students.uettaxila.edu.pk" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
   </a>
 </div>
