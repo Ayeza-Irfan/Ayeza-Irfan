@@ -57,9 +57,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Ayeza-Irfan/Ayeza-Irfan/snake-output/snake.svg" alt="Snake animation" />
-
-###
